@@ -1,5 +1,9 @@
 <h1 align="center">Hey 👋 I'm Ahmed Fares</h1>
 
+<div align="center">
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZTB1czdrazhxZm96Mmg1eXA3b3RocjY1b2R4MGh5MHYyM285b216YSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif" height="150" alt="streak graph"  />
+</div>
+
 <h3 align="center">Software Developer • App Development Lead • Problem Solver</h3>
 
 ###
