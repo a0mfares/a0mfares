@@ -40,15 +40,10 @@ University of Science, Technology and Innovation (Zewail City)
 ## Experience
 <div align="left">
 💼 App Development Overseer @ Cubble  
+
 🚀 App Development Consultant (Startup Advisor)
+
 👨‍🏫 Former Programming Instructor (Teaching kids programming & AI basics)
-</div>
-
-
-<div align="left">
-🔹 Passionate about building scalable, user-centered applications  
-🔹 Experienced in ASP.NET, Flutter, backend systems & deployment  
-🔹 Strong in leadership, mentoring, and project management  
 </div>
 
 ###
