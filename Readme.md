@@ -3,7 +3,7 @@
 <h3 align="center">Software Developer • App Development Lead • Problem Solver</h3>
 
 ###
-
+## Skills
 <div align="center">
   <img src="https://skillicons.dev/icons?i=python" height="60" alt="python logo" />
   <img width="12" />
@@ -28,26 +28,27 @@
 
 ###
 
-<div align="center">
+## Education
+<div align="left">
 
 🎓 Communication & Information Engineering Student  
 University of Science, Technology and Innovation (Zewail City)
-
-💼 App Development Overseer @ Cubble  
-🚀 App Development Consultant (Startup Advisor)
-
-👨‍🏫 Former Programming Instructor (Teaching kids programming & AI basics)
-
 </div>
 
 ###
 
-<div align="center">
+## Experience
+<div align="left">
+💼 App Development Overseer @ Cubble  
+🚀 App Development Consultant (Startup Advisor)
+👨‍🏫 Former Programming Instructor (Teaching kids programming & AI basics)
+</div>
 
+
+<div align="left">
 🔹 Passionate about building scalable, user-centered applications  
 🔹 Experienced in ASP.NET, Flutter, backend systems & deployment  
 🔹 Strong in leadership, mentoring, and project management  
-
 </div>
 
 ###
